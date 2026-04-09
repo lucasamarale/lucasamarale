@@ -70,12 +70,14 @@ class LucasAmaral:
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🌐 [portfolio-lucasamarale](https://github.com/lucasamarale/portfolio-lucasamarale)
+> Personal portfolio website showcasing my projects and freelance work.
 
-[![portfolio-lucasamarale](https://github-readme-stats.vercel.app/api/pin/?username=lucasamarale&repo=portfolio-lucasamarale&theme=tokyonight&hide_border=true)](https://github.com/lucasamarale/portfolio-lucasamarale)
-[![MachineLearning](https://github-readme-stats.vercel.app/api/pin/?username=lucasamarale&repo=MachineLearning&theme=tokyonight&hide_border=true)](https://github.com/lucasamarale/MachineLearning)
+### 🤖 [MachineLearning](https://github.com/lucasamarale/MachineLearning)
+> Notebooks and experiments exploring machine learning concepts and algorithms.
 
-</div>
+### 🐍 [bootcamp](https://github.com/lucasamarale/bootcamp)
+> Python bootcamp exercises and projects from my programming journey.
 
 ---
 
