@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Lucas Amaral Evangelista. I build systems that ship.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Lucas Amaral Evangelista. I build AI systems that ship.">
   <defs>
     <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse" patternTransform="rotate(30)">
       <path d="M44 0H0V44" fill="none" stroke="#E9E0D3" stroke-width="1"/>
@@ -18,13 +18,13 @@
       <rect x="64" y="82" width="36" height="1.5" fill="#B45309"/>
       <text x="112" y="87">LUCAS AMARAL EVANGELISTA</text>
     </g>
-    <text x="64" y="160" font-size="58" font-weight="600" letter-spacing="-2.2" fill="#4A3B33">I build <tspan fill="#B45309">systems that ship</tspan>.</text>
-    <text x="64" y="206" font-size="19" fill="#7A6A60">Developer and Partnerships &amp; Channels Manager at Life Link, Brasília.</text>
-    <text x="64" y="234" font-size="19" fill="#7A6A60">Python pipelines, Claude over MCP, vanilla-code websites, and the vendor deals behind them.</text>
+    <text x="64" y="160" font-size="58" font-weight="600" letter-spacing="-2.2" fill="#4A3B33">I build <tspan fill="#B45309">AI systems that ship</tspan>.</text>
+    <text x="64" y="206" font-size="19" fill="#7A6A60">Python pipelines where Claude classifies and writes, agents that work over MCP,</text>
+    <text x="64" y="234" font-size="19" fill="#7A6A60">and the vendor deals behind them. Life Link, Brasília. CS at UniCEUB.</text>
     <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#7A6A60">
       <text x="64" y="282">lucasamarale.dev</text>
       <text x="230" y="282" fill="#B45309">·</text>
-      <text x="250" y="282">Python · Claude · MCP · n8n · Obsidian · HTML/CSS/JS</text>
+      <text x="250" y="282">Claude · MCP · Codex · n8n · Whisper · Python · TypeScript</text>
     </g>
   </g>
   <g transform="translate(1030,72)">
