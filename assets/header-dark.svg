@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Lucas Amaral Evangelista. I build systems that ship.">
+  <defs>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse" patternTransform="rotate(30)">
+      <path d="M44 0H0V44" fill="none" stroke="#33271F" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1B1410" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#1B1410" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#1B1410" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="#1B1410"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)" opacity="0.9"/>
+  <rect width="1200" height="320" rx="24" fill="url(#fade)"/>
+  <rect x="0.5" y="0.5" width="1199" height="319" rx="23.5" fill="none" stroke="#33271F"/>
+  <g font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="2.5" fill="#F4AC4A">
+      <rect x="64" y="82" width="36" height="1.5" fill="#F4AC4A"/>
+      <text x="112" y="87">LUCAS AMARAL EVANGELISTA</text>
+    </g>
+    <text x="64" y="160" font-size="58" font-weight="600" letter-spacing="-2.2" fill="#F3ECE2">I build <tspan fill="#F4AC4A">systems that ship</tspan>.</text>
+    <text x="64" y="206" font-size="19" fill="#B8A899">Developer and Partnerships &amp; Channels Manager at Life Link, Brasília.</text>
+    <text x="64" y="234" font-size="19" fill="#B8A899">Python pipelines, Claude over MCP, vanilla-code websites, and the vendor deals behind them.</text>
+    <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="1" fill="#B8A899">
+      <text x="64" y="282">lucasamarale.dev</text>
+      <text x="230" y="282" fill="#F4AC4A">·</text>
+      <text x="250" y="282">Python · Claude · MCP · n8n · Obsidian · HTML/CSS/JS</text>
+    </g>
+  </g>
+  <g transform="translate(1030,72)">
+    <rect x="0" y="0" width="112" height="112" rx="26" fill="#241A14" stroke="#33271F"/>
+    <rect x="30" y="26" width="13" height="56" fill="#F3ECE2"/>
+    <rect x="30" y="70" width="38" height="12" fill="#F3ECE2"/>
+    <circle cx="83" cy="76" r="7" fill="#F4AC4A"/>
+  </g>
+</svg>
