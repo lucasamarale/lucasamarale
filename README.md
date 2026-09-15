@@ -51,8 +51,8 @@ At Life Link I am the single point of contact for five global technology vendors
 ## Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucasamarale&hide_border=true&background=1B1410&ring=F4AC4A&fire=F4AC4A&currStreakLabel=F4AC4A&currStreakNum=F3ECE2&sideNums=F3ECE2&sideLabels=B8A899&dates=B8A899">
-  <img src="https://streak-stats.demolab.com?user=lucasamarale&hide_border=true&background=FDFBF7&ring=B45309&fire=B45309&currStreakLabel=B45309&currStreakNum=4A3B33&sideNums=4A3B33&sideLabels=7A6A60&dates=7A6A60" alt="GitHub streak" height="170">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lucasamarale&hide_border=true&disable_animations=true&background=1B1410&ring=F4AC4A&fire=F4AC4A&currStreakLabel=F4AC4A&currStreakNum=F3ECE2&sideNums=F3ECE2&sideLabels=B8A899&dates=B8A899">
+  <img src="https://streak-stats.demolab.com?user=lucasamarale&hide_border=true&disable_animations=true&background=FDFBF7&ring=B45309&fire=B45309&currStreakLabel=B45309&currStreakNum=4A3B33&sideNums=4A3B33&sideLabels=7A6A60&dates=7A6A60" alt="GitHub streak" height="170">
 </picture>
 
 ## Certifications
