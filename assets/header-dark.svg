@@ -29,8 +29,6 @@
   </g>
   <g transform="translate(1030,72)">
     <rect x="0" y="0" width="112" height="112" rx="26" fill="#241A14" stroke="#33271F"/>
-    <rect x="30" y="26" width="13" height="56" fill="#F3ECE2"/>
-    <rect x="30" y="70" width="38" height="12" fill="#F3ECE2"/>
-    <circle cx="83" cy="76" r="7" fill="#F4AC4A"/>
+    <g transform="translate(20.00,26.23) scale(0.11429)" fill="#F3ECE2"><path d="M208 141 102 426l164-79-23 69L0 516 137 187Z"/><path d="M309 0l174 441-83-45-51-125-98 57 24-73 58-35-26-74-75 188-80 44Z"/><path d="M387 128l193 109-39 25-69-34 18 49 75 42 24 61-78-42 22 63 75 47 22 73-123-67Z"/></g>
   </g>
 </svg>
