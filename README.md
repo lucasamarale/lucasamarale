@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasamarale/lucasamarale/main/assets/header-dark.svg">
-  <img alt="Lucas Amaral Evangelista, Software Engineer and AI Engineer. I build systems that ship." src="https://raw.githubusercontent.com/lucasamarale/lucasamarale/main/assets/header-light.svg" width="100%">
+  <img alt="Lucas Amaral Evangelista, Software &amp; AI Engineer. I build systems that ship." src="https://raw.githubusercontent.com/lucasamarale/lucasamarale/main/assets/header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="mailto:lucasamarale.dev@gmail.com"><img src="https://img.shields.io/badge/Email-4A3B33?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-I'm a software engineer and an AI engineer. I build whole products: mobile and web apps in React Native, React and TypeScript, APIs and data pipelines in Python and Node.js, PostgreSQL underneath, and the parts people skip when they're in a hurry: tests, CI, containers, error handling, retries and circuit breakers, and a rollback that works.
+I'm a software and AI engineer in Brasília. I build whole products: mobile and web apps in React Native, React and TypeScript, APIs and data pipelines in Python and Node.js, PostgreSQL underneath, and the parts people skip when they're in a hurry: tests, CI, containers, error handling, retries and circuit breakers, and a rollback that works.
 
 **AI is where I go deepest.** I don't just call a model, I engineer around it. I designed and run my own multi-agent development orchestra: a planner, an executor in a network-free sandbox, and a rival model from a different provider that attacks every plan and every diff before merge, all behind a risk gate wired into the agents' hooks. Around that: context engineering, structured outputs, tool calling, MCP servers with real read and write access, retrieval over governed knowledge bases, transcription and classification chains, and the evaluation and guardrails that let a pipeline run unattended. Claude Code, Codex, Claude Skills, the Gemini API, Groq and LLaMA, Whisper and n8n are the tools. The engineering around them is what makes them production.
 
@@ -21,7 +21,7 @@ The person who writes the pipelines is the one who negotiates the contracts.
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| **AI agent orchestra** *(private)* | A reusable formation of agents for building software, in use across three projects and running on more than one ADE (Maestri and Elyra). The Maestro plans; the Executor builds in an isolated worktree inside a network-free sandbox that's re-proven on every Claude Code release; the Rival, from a different provider, attacks the plan until it converges and reviews the diff; subagents handle testing, security audit and deploy. A Node.js risk gate in the Claude Code and Codex hooks blocks destructive commands (488 test cases). Context lives in files, not in the session. I decide premises, plan, diff and merge. | `Claude Code` `Codex CLI` `Node.js` `Bash` `GitHub Actions` |
+| **AI agent orchestra** *(private)* | A reusable formation of agents for building software, in use across three projects and running on more than one ADE (Maestri and Elyra). The Maestro plans; the Executor builds in an isolated worktree inside a network-free sandbox that's re-proven on every Claude Code release; the Rival, from a different provider, attacks the plan until it converges and reviews the diff; subagents handle testing, security audit and deploy. A Node.js risk gate in the Claude Code and Codex hooks blocks destructive commands (488 test cases). Context lives in files, not in the session. I decide premises, plan, diff and merge. [Read the case study](https://lucasamarale.dev/orchestra/case-study/). | `Claude Code` `Codex CLI` `Node.js` `Bash` `GitHub Actions` |
 | **[Casaly](https://getcasaly.com)** *(founder, private repo)* | Wedding planning SaaS for iOS, Android and web: a quiz-generated plan, quantities sized by guest count, an offline queue and three languages from day one. Supabase with row-level access, subscriptions through App Store Connect and RevenueCat, and every PR tested on an iPhone before merge. Built with my own code and the agent orchestra. | `Expo` `React Native` `TypeScript` `Supabase` `RevenueCat` |
 | **Court Docket Monitor, v2** *(private)* | My own TypeScript SaaS, rebuilt from the Python system below. Legal deadline counting under Brazil's Civil Procedure Code in auditable code (the model reads the text, the code counts the days), PostgreSQL with per-firm isolation, a DataJud adapter with network-free tests, and 298 tests so far. | `TypeScript` `PostgreSQL` `Kysely` `Vitest` `pnpm` |
 | **[sdd-task-analyzer](https://github.com/lucasamarale/sdd-task-analyzer)** | A spec-driven workflow for AI-generated code: a versioned contract, context rules for the agent, 26 pytest tests written before the code and human sign-off on every PR, with CI on GitHub Actions and in Docker. I injected nine typical AI mistakes: tests caught seven, and the gap became a contract change and a new test. | `Python` `pytest` `Docker` `GitHub Actions` |
@@ -39,7 +39,7 @@ The person who writes the pipelines is the one who negotiates the contracts.
 | **[SUS transfer corrections](https://github.com/lucasamarale/Correcoes-repasses)** | Monetary correction of public health transfers to hospitals: CSV in, pandas processing, PDF reports and dashboards out. | `Python` `pandas` |
 | **Document generator** | Python and Playwright generate branded documents, with a pre-flight verifier that aborts the build on any violation of the visual standard. | `Python` `Playwright` |
 | **SharePoint tenant** | Nine corporate sites with a defined taxonomy, plus automated writes through the REST API instead of manual upkeep. | `SharePoint` `REST` |
-| **[lucasamarale.dev](https://lucasamarale.dev)** | This portfolio: one vanilla HTML file with a scroll-locked 3D intro, canvas engines and a bilingual build. No frameworks, no build step, deployed on Netlify. | `HTML` `CSS` `JS` |
+| **[lucasamarale.dev](https://lucasamarale.dev)** | This portfolio, rebuilt in Astro: one continuous WebGL dust scene that draws each project as you scroll, in English and Portuguese, with structured data, an llms.txt and a written [case study](https://lucasamarale.dev/orchestra/case-study/). Static, deployed on Netlify. | `Astro` `WebGL` `JS` |
 
 ## Engineering
 
